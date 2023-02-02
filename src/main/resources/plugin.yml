@@ -1,0 +1,6 @@
+name: SGPlayersManager
+version: '${project.version}'
+main: fr.plhume.sgpm.SGPlayersManager
+api-version: 1.19
+authors: [ Plhume ]
+description: Players managment for SwapingGame
